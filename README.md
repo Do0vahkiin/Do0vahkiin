@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Do0vahkiin;
+- 👋 Hi, I’m Roberto Barreto;
 - 🌱 I’m currently in coursing Analysis and Development of Systems in the Federal Institute of Education, Science and Technology of Bahia;
 - 💞️ I’m looking to collaborate on beginner to intermediate projects in Python, JavaScript and C;
 
